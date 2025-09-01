@@ -1,0 +1,12 @@
+# Core
+numpy
+pandas
+matplotlib
+scikit-learn>=1.2
+
+# Optional: gradient boosting
+xgboost
+
+# Jupyter
+jupyterlab
+ipykernel
