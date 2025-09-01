@@ -33,7 +33,7 @@ This project goes beyond Kaggle demos, focusing on **scalable feature engineerin
 
 <p align="center">
   <img src="reports/figures/rf_feature_importance_topN.png" width="400"/>
-  <img src="reports/figures/rf_residuals_hists.png" width="400"/>
+  <img src="reports/figures/rf_residuals_hist.png" width="400"/>
   <img src="reports/figures/rf_true_vs_pred.png" width="400"/>
 </p>
 
